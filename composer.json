@@ -10,7 +10,4 @@
             "email": "r8@r8.com.ua"
         }
     ],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
 }
